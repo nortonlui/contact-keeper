@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://<user>:<password>@<URLMongoAtlas>/contactDB?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
